@@ -8,5 +8,5 @@ projects:
     lint: false
     libs:
     - src: Muqsit/InvMenu/InvMenu
-      version: ^4.3.4
+      version: ^4.5.1
 ...
